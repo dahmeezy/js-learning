@@ -55,3 +55,25 @@ console.log(index);
 // console.log(res)
 
 
+let radius = 10;
+const pi = 3.14;
+
+console.log(radius,pi);
+
+// math operators +, -, *, /, **, %
+
+// console.log(10 / 2);
+
+// let res = radius %  3;
+
+// let res = pi * radius ** 2;
+
+// let res = 5* (10-3)**3;
+
+// console.log(res)
+
+let likes =10;
+// likes++
+likes +=10
+likes-=5
+console.log(likes)
