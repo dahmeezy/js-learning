@@ -44,3 +44,14 @@ console.log(result,fullName);
 
 let index = email.indexOf("@");
 console.log(index);
+
+// common string methods
+// let res = email.lastIndexOf('n');
+// let res = email.slice(0,10);
+// let res = email.substring(4,10);
+// let res = email.replace('m','w');
+// let res = email.replace('n','w');
+
+// console.log(res)
+
+
